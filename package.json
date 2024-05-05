@@ -7,7 +7,7 @@
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
-  "author": "Akshat Jain",
+  "author": "Deepanshu Shukla",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
